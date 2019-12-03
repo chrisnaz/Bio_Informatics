@@ -1,0 +1,4 @@
+3
+AT----G--TAACAT
+-T-CCCG-GT--AGA
+CTC---GA-T--CTT
